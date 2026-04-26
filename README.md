@@ -10,7 +10,7 @@ This is the [link](https://github.com/Bennyufy/Front-End-Developer-Portfolio.git
 
 ## Sample Website
 
-A live demo is available via this [link](https://eager-williams-af0d00.netlify.app/?)
+A live demo is available via this [link](https://bennyufy.github.io/Front-End-Developer-Portfolio/)
 
 ## Tech Stack
 
